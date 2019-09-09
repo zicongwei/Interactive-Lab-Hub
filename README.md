@@ -1,6 +1,5 @@
 # Interactive-Lab-Hub
 
-Completed Labs for John Q. Student
+Completed Labs for Irene Wei. Student
 
-1. [John Q's Lab 1](//github.com/johnqstudent/idd-fa18-lab1)
-2. [John Q's Lab 2](//github.com/johnqstudent/idd-fa18-lab2)
+1. [Irene Wei's Lab 1](https://github.com/zicongwei/Interactive-Lab-Hub/tree/master/lab1)
