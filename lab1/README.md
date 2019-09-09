@@ -86,7 +86,7 @@ Yes. It uses photoelectric sensor. When it sensed a change in movement, in the c
 
 It uses battery. There is no transformation or regulation of the power. The voltages throughout the system is 3V.
 
-**d. Is information stored in your device? Where? How?**
+**d. Is information stored in your device? Where? How?**  
 No.
 
 ### 2. Using your schematic, figure out where a good point would be to hijack your device and implant an LED.
