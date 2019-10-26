@@ -11,3 +11,5 @@ Completed Labs for Irene Wei. Student
 4. [Irene's Lab 4](https://github.com/zicongwei/IDD-Fa19-Lab4)
 
 5. [Irene's Lab 5](https://github.com/zicongwei/Interactive-Lab-Hub/tree/master/lab5)
+
+6. [Irene's Lab 6](https://github.com/zicongwei/IDD-Fa19-Lab6/blob/master/README.md)
